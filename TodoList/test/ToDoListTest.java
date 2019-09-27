@@ -15,6 +15,7 @@ public class ToDoListTest {
 	}
 	@Before
 	 public void setUp() throws Exception{
+		// Boon Kui was here!
 		task1 = new Task ("desc 1");
 		task2 = new Task ("desc 2");
 		task3 = new Task ("desc 3");
